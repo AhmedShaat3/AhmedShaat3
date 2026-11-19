@@ -78,6 +78,12 @@ A personal website showcasing my technical background, projects, and professiona
 - PyCharm
 - VS Code
 
+## 🧰 Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux,aws,git,github,html,css,js,mysql" />
+</p>
+
 ## 🏆 Activities & Achievements
 
 - Huawei ICT Competition 2026 — Cloud Track.
